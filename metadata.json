@@ -1,0 +1,6 @@
+{
+  "name": "Real-Time Weather Dashboard",
+  "description": "A feature-rich real-time weather monitoring dashboard with live station telemetry, interactive radar maps, 24h & 7-day forecasts, air quality analytics, severe weather alerts, unit toggles, multi-city saved locations, and server-side Gemini AI weather briefings.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
